@@ -11,6 +11,8 @@ This code also demonstrates the capability of RTL8720dn performing SoftAP, promi
 This program can be compiled using AmebaD SDK version 3.1.7 <br>
 Because I modified some of the core libraries, you may encounter a problem. Please let me know so I can fix it. <br>
 
+## Important
+You may need to use this board definition or compilation will fail : https://drive.google.com/file/d/13FOQ47H48j42ArYKcxLlSIuS7eU7qN_B/view?usp=sharing
 ## How To Use
 1. Compile and flash the code
 2. Connect to "CAPPER" with password "12345678"
